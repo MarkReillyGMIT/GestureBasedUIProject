@@ -18,12 +18,20 @@ This section will describe the rationale behind in game screens.
 
 While running the application the user is brought to a home screen with the option to play the game. The home screen consists of: The Title, Play button, Record score and the current score. See Figure Below.
 
+![Home Screen](https://github.com/MarkReillyGMIT/GestureBasedUIProject/blob/main/Images/HomeScreen.PNG)
+
+
 While in the game the user can use the Myo Armband that is connect via Bluetooth or the arrow keys to control the character. The objective of the game is to eat as mane purple squares without colliding with the walls or the character. The game becomes increasingly difficult when character eats more purple squares due to it growing for every square eaten. As seen in the below figure, the character has increased in size from the beginning when it is only one square in size.
+
+![Gameplay](https://github.com/MarkReillyGMIT/GestureBasedUIProject/blob/main/Images/GamePlayScreen.PNG)
+
 ### Appropriate gestures identified:
 
 The Myo Armband had a lot of gestures that could be incorporated into this application but after testing I decided to only include four out seven available due to increased unreliability with certain gestures which I will discuss below.
 
 The seven gestures that are made available with the Myo can be seen in the figure below:
+
+![Gestures](https://github.com/MarkReillyGMIT/GestureBasedUIProject/blob/main/Images/Gestures.JPG)
 
 
 Gestures Chosen and there functions:
@@ -52,8 +60,11 @@ Keyboard controls:
 
 The hardware I used in creating this application is the Myo Armband to maintain control of the application.
 
+![Myo](https://github.com/MarkReillyGMIT/GestureBasedUIProject/blob/main/Images/myoHowWorn.jpg)
+![MyoArmband](https://github.com/MarkReillyGMIT/GestureBasedUIProject/blob/main/Images/myoArm.jpg)
+
 ### Architecture:
-![alt text](https://github.com/MarkReillyGMIT/GestureBasedUIProject/Images/Architecture.PNG?raw=true)
+![Architecture](https://github.com/MarkReillyGMIT/GestureBasedUIProject/blob/main/Images/Architecture.PNG)
 
 Libraries Used:
 - [https://www.nuget.org/packages/MyoSDK/](Myo Windows SDK)
