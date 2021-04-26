@@ -77,5 +77,3 @@ Overall I am very happy with how the application turned out, I feel the lack of 
 Demonstration of the application:
 
 https://photos.app.goo.gl/P1XY97dVXH9SLGX96
-=======
->>>>>>> c792bf33fe81a54805e4292240ab8777b9223c8b
