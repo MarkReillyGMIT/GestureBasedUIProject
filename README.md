@@ -57,5 +57,11 @@ The hardware I used in creating this application is the Myo Armband to maintain 
 
 Libraries Used:
 - [https://www.nuget.org/packages/MyoSDK/](Myo Windows SDK)
+
 ### Conclusions & Recommendations:
 Overall I am very happy with how the application turned out, I feel the lack of documentation for the Myo Armband due to it being discontinued made it more difficult to connect with different software. I have learned so much from completing this project such as having to connect a piece of hardware I had never used before to an application that I designed was very interesting.
+
+### Video 
+Demonstration of the application:
+
+https://photos.app.goo.gl/P1XY97dVXH9SLGX96
