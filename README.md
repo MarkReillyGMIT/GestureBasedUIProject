@@ -31,7 +31,7 @@ The Myo Armband had a lot of gestures that could be incorporated into this appli
 
 The seven gestures that are made available with the Myo can be seen in the figure below:
 
-![Gestures](https://github.com/MarkReillyGMIT/GestureBasedUIProject/blob/main/Images/Gestures.JPG)
+![Gestures](https://github.com/MarkReillyGMIT/GestureBasedUIProject/blob/main/Images/Gestures.jfif)
 
 
 Gestures Chosen and there functions:
@@ -60,8 +60,8 @@ Keyboard controls:
 
 The hardware I used in creating this application is the Myo Armband to maintain control of the application.
 
-![Myo](https://github.com/MarkReillyGMIT/GestureBasedUIProject/blob/main/Images/myoHowWorn.jpg)
-![MyoArmband](https://github.com/MarkReillyGMIT/GestureBasedUIProject/blob/main/Images/myoArm.jpg)
+![Myo](https://github.com/MarkReillyGMIT/GestureBasedUIProject/blob/main/Images/myoHowWorn.jfif)
+![MyoArmband](https://github.com/MarkReillyGMIT/GestureBasedUIProject/blob/main/Images/myoArm.jfif)
 
 ### Architecture:
 ![Architecture](https://github.com/MarkReillyGMIT/GestureBasedUIProject/blob/main/Images/Architecture.PNG)
